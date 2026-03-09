@@ -19,3 +19,8 @@ The goal of this project is to reduce manual data processing tasks by automating
 
 ## Author
 Umme Alvira Falak
+## Future Improvements
+
+- Add graphical data visualization
+- Integrate machine learning models for predictive analysis
+- Develop a web interface for easier dataset management
